@@ -60,20 +60,20 @@ class _IntroScreenState extends State<IntroScreen> {
       "buttonText": "Next",
     },
     {
-      "title": "A quick guide on how to use the application",
+      //"title": "A quick guide on how to use the application",
       "image": "assets/destination_lp.png",
       "subtitle":
           "Step 2: Click the check ✓ button to confirm your destination",
       "buttonText": "Next",
     },
     {
-      "title": "A quick guide on how to use the application",
+      //"title": "A quick guide on how to use the application",
       "image": "assets/transpo_lp.png",
       "subtitle": "Step 3: Choose your mode of transportation",
       "buttonText": "Next",
     },
     {
-      "title": "A quick guide on how to use the application",
+      //"title": "A quick guide on how to use the application",
       "image": "assets/go_lp.png",
       "subtitle": "Step 4: Click the 'Start Session' & your route is ready!",
       "buttonText": "Next",
